@@ -77,11 +77,9 @@ streamlit run app.py
 
 <img width="1437" height="871" alt="Image" src="https://github.com/user-attachments/assets/d264cc4f-ec9d-44d6-b8e7-09cb9fc6d5ba" />
 
-**Pergunta:** Posso ser reembolsado por bebida alcoólica em viagem a trabalho?
-**Resposta:** Não. Bebidas alcoólicas não são reembolsáveis sob nenhuma circunstância administrativa, segundo a política de Travel & Expenses. *[fonte: Source_of_Truth_Onboarding_Buddy_e_BAU.pdf]*
+<img width="1244" height="820" alt="Image" src="https://github.com/user-attachments/assets/69464aa5-7874-46cd-88c0-2dc9bd4da3d5" />
 
-**Pergunta:** Quando meu notebook corporativo chega?
-**Resposta:** O IT Support despacha o notebook por transportadora rastreada com previsão de chegada até 3 dias úteis antes do seu Dia 1. Se não chegar até o fim do dia anterior ao início, abra um chamado P2 no ServiceNow. *[fonte: FAQ_de_Sistemas_e_Acessos_Operacionais.pdf]*
+<img width="1125" height="341" alt="Image" src="https://github.com/user-attachments/assets/2ddfaf53-56e5-4636-98fd-38fcb1f41540" />
 
 ## ☁️ Deploy
 
