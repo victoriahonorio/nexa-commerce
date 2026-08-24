@@ -75,8 +75,7 @@ streamlit run app.py
 ## 💬 Exemplos de uso
 
 
-**Pergunta:** Quantas horas por semana meu buddy tem disponível para mim?
-**Resposta:** De acordo com o Manual do Programa de Buddy, o Buddy dedica até 3 horas semanais nas duas primeiras semanas do programa, reduzindo para 1 hora semanal pelo restante do trimestre (até o dia 90). *[fonte: Manual_do_Programa_de_Buddy.pdf]*
+<img width="1437" height="871" alt="Image" src="https://github.com/user-attachments/assets/d264cc4f-ec9d-44d6-b8e7-09cb9fc6d5ba" />
 
 **Pergunta:** Posso ser reembolsado por bebida alcoólica em viagem a trabalho?
 **Resposta:** Não. Bebidas alcoólicas não são reembolsáveis sob nenhuma circunstância administrativa, segundo a política de Travel & Expenses. *[fonte: Source_of_Truth_Onboarding_Buddy_e_BAU.pdf]*
