@@ -1,0 +1,11 @@
+requests
+pypdf
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+chromadb
+langchain-google-genai
+python-dotenv
+streamlit
