@@ -86,8 +86,8 @@ streamlit run app.py
 
 ## ☁️ Deploy
 
-* **Aplicação em produção:** `<adicione aqui o link do Streamlit Community Cloud depois do deploy>`
-* **Evidência do deploy na OCI:** `<adicione aqui o print ou link do bucket/PAR configurado>`
+* **Aplicação em produção:** `https://nexa-commerce.streamlit.app/`
+* **Evidência do deploy na OCI:** `https://cloud.oracle.com/object-storage/buckets/grozlcquk1bs/nexacommerce-docs/details?region=sa-saopaulo-1`
 
 ## 📁 Estrutura do projeto
 
